@@ -3,7 +3,7 @@ function myFunction() {
     var x = document.querySelector(".menu-container");
     x.classList.toggle("change");
   }
-// function for drop down menu to display block if its display none or vise versa
+// function for drop down menu to display block if its display is none or vise versa
 function dropmenu(){
     var x = document.getElementById('menu-dropdown');
     if (x.style.display === "block"){
