@@ -507,10 +507,7 @@ footer>ul{
 #footer{
     position: relative;
 }
-#footer-contact{
-    position: absolute;
-    bottom: 0;
-}
+
 
 /* big screens projects page */
 .projects-header{
