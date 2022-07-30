@@ -362,6 +362,9 @@ position:relative ;
 
 /* css for bigger screens start */
 @media screen and (min-width:780px){
+    body{
+        overflow-x: hidden;
+    }
 .menu-container{
     display: none;
 }
@@ -503,6 +506,10 @@ footer>ul{
 }
 #footer{
     position: relative;
+}
+#footer-contact{
+    position: absolute;
+    bottom: 0;
 }
 
 /* big screens projects page */
