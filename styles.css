@@ -193,6 +193,10 @@ footer>ul{
     color: #00ADB5;
     padding-bottom: 5px;
 }
+.youtube-link{
+    color: #00ADB5;
+    text-decoration: none;
+}
 .languages-more{
     width: 90vw;
     margin: 0 auto;
@@ -487,6 +491,10 @@ footer>ul{
 }
 .html, .css,.js{
     color: #00ADB5;
+}
+.youtube-link{
+    color: #00ADB5;
+    text-decoration: none;
 }
 .languages-more{
     padding-top: 30px;
