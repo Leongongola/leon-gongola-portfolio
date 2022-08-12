@@ -431,6 +431,10 @@ footer{
   width: 100vw;
   text-align: center;
 }
+.footer-contact-page{
+   position: absolute;
+   bottom: 0;
+}
 footer>ul{
     display: flex;
     list-style: none;
