@@ -279,7 +279,7 @@ footer>ul{
     height: 270px;
 }
 
-.first-calculator-link, .weather-app-link{
+.first-calculator-link{
     color: #00ADB5;
     text-decoration: none; 
     font-family: 'Nanum Gothic', sans-serif;
@@ -292,7 +292,7 @@ footer>ul{
     font-family: 'Nanum Gothic', sans-serif;
     line-height: 22px;
 }
-.lasmoving-link{
+.lasmoving-link, .weather-link{
     color: #00ADB5;
     text-decoration: none; 
     font-family: 'Nanum Gothic', sans-serif;
@@ -535,7 +535,7 @@ footer>ul{
     margin: 0 auto;
     width: 70vw;
 }
-.lasmoving-link{
+.lasmoving-link, .weather-link{
     color: #00ADB5;
     text-decoration: none;
 }
