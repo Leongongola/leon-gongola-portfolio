@@ -174,6 +174,7 @@ footer>ul{
     width: 40vw;
     margin: 0 auto;
     display: block;
+    border-radius: 15px;
 }
 .about-me-section{
     width: 90%;
@@ -189,7 +190,7 @@ footer>ul{
     color: #8892b0;
     font-family: 'Nanum Gothic', sans-serif;
 }
-.html, .css, .js{
+.html, .css, .js, .github{
     color: #00ADB5;
     padding-bottom: 5px;
 }
@@ -478,13 +479,7 @@ footer>ul{
  width: 20vw;
     border-radius: 15px;
 }
-/* .about-me-flex{
-    display: flex;
-    margin: 0 auto;
-    width: 90vw;
-    padding-top: 40px;
-    font-size: 20px;
-} */
+
 .about-me-flex-second-part{
     margin-left: 50px;
     padding-top: 40px;
@@ -500,7 +495,7 @@ footer>ul{
     font-size: 18px;
     font-family: 'Nanum Gothic', sans-serif; 
 }
-.html, .css,.js{
+.html, .css,.js, .github{
     color: #00ADB5;
 }
 .youtube{
@@ -526,6 +521,11 @@ footer>ul{
     font-family: 'Nanum Gothic', sans-serif;
     font-weight: 900;
     padding-top: 10px;  
+}
+.first-calculator-link, .weather-app-link{
+    color: #00ADB5;
+    text-decoration: none; 
+    font-family: 'Nanum Gothic', sans-serif;
 }
 .first-calculator-description, .lasmoving-description{
     padding-top: 30px;
