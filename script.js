@@ -2,13 +2,13 @@
 function myFunction() {
     var x = document.querySelector(".menu-container");
     x.classList.toggle("change");
-  }
+}
 // function for drop down menu to display block if its display is none or vise versa
-function dropmenu(){
+function dropmenu() {
     var x = document.getElementById('menu-dropdown');
-    if (x.style.display === "block"){
+    if (x.style.display === "block") {
         x.style.display = "none";
-    }else{
+    } else {
         x.style.display = "block";
     }
 }
@@ -17,5 +17,3 @@ const navmenu = document.getElementById("menu-dropdown");
 navmenu.addEventListener("click", () => {
     navmenu.classList.toggle("active");
 });
-
-
